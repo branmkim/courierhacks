@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+header {
+    width: 100vw;
+    height: 10vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    display: flex;
+    padding: 0 2vw;
+    align-items: center;
+    background-color: #2f2f2f;
+    -webkit-box-sizing: border-box;
+}
+h1 {
+    font-size: 2rem;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}

@@ -1,0 +1,32 @@
+form > * {
+    display: block;
+    padding: 1vh;
+}
+input {
+    font-size: 1rem;
+    width: 30vw;
+    margin: 1vh auto;
+}
+p {
+    font-size: 1.5rem;
+    margin: 1vh auto;
+}
+.form-button {
+    font-size: 1rem;
+    margin-top: 2vh;
+    width: 30vw;
+    display: inline-block;
+}
+.signout {
+    width: 10vw;
+    height: 5vh;
+    margin-left: auto;
+}
+.auth-link {
+    text-decoration: underline;
+    color: #ffffff;
+    margin: 0 auto;
+}
+.auth-link:hover {
+    text-decoration: none;
+}
